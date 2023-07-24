@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2a63e05-7219-45dc-bec5-0b5e8dc16fdd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabs/sal/SnakeAndLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabs/sal/SnakeAndLadder.java" afterDir="false" />
-    </list>
+    <list default="true" id="f2a63e05-7219-45dc-bec5-0b5e8dc16fdd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="UC4_Winning_Position" />
+        <entry key="$PROJECT_DIR$" value="UC5_Winning_Same_Position" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -107,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690028139747</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="UC5 Added">
+      <created>1690177921579</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690177921579</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,6 +120,7 @@
     <MESSAGE value="UC2 Added" />
     <MESSAGE value="UC3 Added" />
     <MESSAGE value="UC4 Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="UC4 Added" />
+    <MESSAGE value="UC5 Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="UC5 Added" />
   </component>
 </project>
